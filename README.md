@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chungimungi
 - 👀 I’m interested in Natural Language Programming
-- 🌱 I’m currently learning Python, Linear Algebra, Probability and Data Structures
+- 🌱 I’m currently learning C,C++,Python, Linear Algebra, Operating Systems and Data Structures
 - 💞️ I’m looking to collaborate on Data Structures and Python
 - 📫 How to reach me Discord: chungimungi#1473
 
