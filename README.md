@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @chungimungi
-- 👀 I’m interested in Natural Language Programming
-- 🌱 I’m currently learning C,C++,Python, Linear Algebra, Operating Systems and Data Structures
-- 💞️ I’m looking to collaborate on Data Structures and Python
-- 📫 How to reach me Discord: chungimungi#1473
+**👋 Hi, I’m Aarush Sinha aka Chungimungi**
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chungimungi&show_icons=true&theme=radical)
 
 <!---
 chungimungi/chungimungi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
