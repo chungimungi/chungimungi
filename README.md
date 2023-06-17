@@ -1,4 +1,6 @@
 **👋 Hi, I’m Aarush Sinha aka Chungimungi**
+I enjoy Algorithm designing, Natural Language Processing and mathematics.
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chungimungi&layout=compact)
 
