@@ -6,6 +6,12 @@ I enjoy Algorithm designing, Natural Language Processing and mathematics.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chungimungi&layout=compact)
 
 
+**What I use the most**
+
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=python&textfill=3776ab&fill=000000)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=c&textfill=3776ab&fill=000000)
+
+
 
 
 <!---
