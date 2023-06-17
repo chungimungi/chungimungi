@@ -1,4 +1,5 @@
 **👋 Hi, I’m Aarush Sinha aka Chungimungi**
+
 I enjoy Algorithm designing, Natural Language Processing and mathematics.
 
 
