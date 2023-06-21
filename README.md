@@ -3,7 +3,7 @@
 I enjoy Natural Language Processing and Mathematics.
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chungimungi&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chungimungi&layout=compact&theme=vision-friendly-dark)](https://github.com/chungimungi/github-readme-stats)
 
 
 **What I use the most**
@@ -12,7 +12,6 @@ I enjoy Natural Language Processing and Mathematics.
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=c&textfill=3776ab&fill=000000)
 
 
-https://github-readme-streak-stats.herokuapp.com/?user=chungimungi
 
 <!---
 chungimungi/chungimungi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
