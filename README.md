@@ -12,7 +12,7 @@ I enjoy Natural Language Processing and Mathematics.
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=c&textfill=3776ab&fill=000000)
 
 
-
+https://github-readme-streak-stats.herokuapp.com/?user=chungimungi
 
 <!---
 chungimungi/chungimungi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
