@@ -1,6 +1,6 @@
-<h1> Hi, I’m Aarush Sinha aka Chungimungi
-
-<h2>I enjoy Natural Language Processing and Mathematics.
+Hi, I’m Aarush Sinha aka Chungimungi
+--------------------------------------
+I enjoy Natural Language Processing and Mathematics.
 
 
 
